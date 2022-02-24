@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Judicium &amp; decretum Universitatis Oxoniensis latum in convocatione habita Jul. 21, an. 1683, contra quosdam perniciosos libros &amp; propositiones impias quae capitibus sacratissimorum principum, eorum statui &amp; regimini, &amp; omni humanae societati exitium intentant.</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53810</idno>
+            <idno type="STC">Wing O893</idno>
+            <idno type="STC">ESTC R5615</idno>
+            <idno type="EEBO-CITATION">13084529</idno>
+            <idno type="OCLC">ocm 13084529</idno>
+            <idno type="VID">97295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97295)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Judicium &amp; decretum Universitatis Oxoniensis latum in convocatione habita Jul. 21, an. 1683, contra quosdam perniciosos libros &amp; propositiones impias quae capitibus sacratissimorum principum, eorum statui &amp; regimini, &amp; omni humanae societati exitium intentant.</title>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>E Theatro Sheldoniano,</publisher>
+                  <pubPlace>[Oxonii] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Censorship --  England.</term>
+               <term>Prohibited books.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97295:1"/>
+            <!-- PDF PAGE 46 -->
+            <p>JUDICIUM &amp; DECRETUM Univerſitatis Oxonienſis Latum in Convocatione habita <date>
+                  <hi>Jul.</hi> 21. <hi>An.</hi> 1683.</date>
+            </p>
+            <p>
+               <hi>Contra quoſdam</hi> PERNICIOSOS LIBROS &amp; PROPOSITIONES IMPIAS, quae Capitibus ſacratiſſimorum PRINCIPUM, eorum STATUI &amp; REGIMINI, &amp; omni HUMA<g ref="char:EOLhyphen"/>NAE SOCIETATI exitium intentant.</p>
+            <figure>
+               <figDesc>depiction of the Sheldonian Theatre, Oxford</figDesc>
+            </figure>
+            <p>E Theatro SHELDONIANO, 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="laws_and_decrees">
+            <pb facs="tcp:97295:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="1" facs="tcp:97295:2"/>
+            <!-- PDF PAGE 47 -->
+            <head>JUDICIUM &amp; DECRETUM. UNIVERSITATIS OXONIENSIS Latum in Convocatione habita Jul. 21. An. 1683.</head>
+            <p>
+               <seg rend="decorInit">Q</seg>Uanquam parricidale faci<g ref="char:EOLhyphen"/>nus in Sacrum ſereniſſi<g ref="char:EOLhyphen"/>mi Principis &amp; illuſtriſſi<g ref="char:EOLhyphen"/>mi Fratris ejus caput nuper deſignatum, omnem no<g ref="char:EOLhyphen"/>ſtram ſollicitudinem depoſ<g ref="char:EOLhyphen"/>cat, qua tam flagitioſum ne<g ref="char:EOLhyphen"/>fas Deo pariter &amp; homini<g ref="char:EOLhyphen"/>bus inviſum, debita deteſtatione proſequamur; &amp; dignas clementiſſimo numini gratias redda<g ref="char:EOLhyphen"/>mus, cujus ſingulari providentia comparatum eſt, quod ſpiritus oris noſtri Chriſtus Domini non ſit captus in laqueis ipſi poſitis, ſed in umbra ejus nobis etiamnum vivere &amp; ſuper<g ref="char:EOLhyphen"/>ſtites eſſe contigerit: Partium tamen noſtra<g ref="char:EOLhyphen"/>rum eſſe ducimus altius mentis aciem defigere in impia illa Dogmata, quae nuper ſummo ſtu<g ref="char:EOLhyphen"/>dio
+<pb n="2" facs="tcp:97295:3"/>
+               <!-- PDF PAGE 48 -->in publicum ſparſa, nefariis iſtis molitio<g ref="char:EOLhyphen"/>nibus cauſas &amp; fomenta dedere; eademque juſtis cenſuris ſubjicere publicoque decreto damnare &amp; confodere.</p>
+            <p>Itaque ad honorem ſanctae &amp; individuae Tri<g ref="char:EOLhyphen"/>nitatis, &amp; ad Catholicae Doctrinae veritatem in Eccleſia conſervandam; porro ut Regia Ma<g ref="char:EOLhyphen"/>jeſtas non ſolum a perduellium hoſtiumque, ſed quorumcunque Schiſmaticorum inſidiis ſarta tecta maneat, frequenti Convocationis Senatu die Julii 21. An. 1683, nos Vice-Cancellarius, Doctores, Procuratores, Magi<g ref="char:EOLhyphen"/>ſtri Regentes &amp; non Regentes, more &amp; loco conſuetis convocati; unanimi conſenſu &amp; aſ<g ref="char:EOLhyphen"/>ſenſu ſuper quibuſdam propoſitionibus quae in libris ſcriptiſque tam idiomate Latino quam Vernaculo publice editis atque evulgatis con<g ref="char:EOLhyphen"/>tinentur; quaeque non ſolum Divino Canoni, Decretis Conciliorum, ſcriptis Patrum, &amp; pri<g ref="char:EOLhyphen"/>mitivae Eccleſiae fidei &amp; profeſſioni repugnant &amp; contrariantur: ſed inſuper Monarchicum regimen, Perſonam ſacratiſſimae Regiae Ma<g ref="char:EOLhyphen"/>jeſtatis, pacem publicam, &amp; naturae ipſius Le<g ref="char:EOLhyphen"/>ges &amp; humanae ſocietatis vincula ſubruunt &amp; convellunt; Decrevimus in formulam ſubſe<g ref="char:EOLhyphen"/>quentem.</p>
+            <p>
+               <hi>Propoſitio</hi> 1. Populus eſt fons &amp; origo Poteſtatis omnis ci<g ref="char:EOLhyphen"/>vilis.</p>
+            <p n="2">2. Inter Principem &amp; ſubditos pactum ſemper vel ex<g ref="char:EOLhyphen"/>preſſum vel tacitum intercedit, &amp; ſi Princeps deſit officio ſuo, ſubditi pactione ſua non amplius obligantur.</p>
+            <pb n="3" facs="tcp:97295:3"/>
+            <!-- PDF PAGE 48 -->
+            <p n="3">3. Si juſta &amp; legitima poteſtas migret in tyrannidem, aut ſecus geratur quam ex lege Divina &amp; humana oportet; amiſſo omni jure ad imperandum, abroga<g ref="char:EOLhyphen"/>tur.<note place="margin">Lex Rex. Buch. de jure Regni apud Scotos. Vindiciae contra Ty<g ref="char:EOLhyphen"/>rannos. Bellarmin. de Conciliis &amp; Pontifice. Dolman. Milton. Goodwin. Baxt. R. S.</note>
+            </p>
+            <p n="4">4. Suprema apud Anglos poteſtas eſt trium ordinum, <hi>viz.</hi> Regis, procerum, &amp; plebis. Rex coordinata tan<g ref="char:EOLhyphen"/>tum poteſtate praeditus, reliquis minor.<note place="margin">Lex Rex. Hunton de Monarchia limitata &amp; mixta. Baxter. Polit. Cat.</note>
+            </p>
+            <p n="5">5. Nec primogenitura, nec ſanguinis proximitas jus ad regnum conferunt, licetque proximum haeredem à ſuc<g ref="char:EOLhyphen"/>ceſſione in imperium prohibere.<note place="margin">Lex Rex. Hunt Poſtſcr. Dolman. Hiſt. Succeſs. Julian. Apoſt. Mene Tekel.</note>
+            </p>
+            <p n="6">6. Licet ſubditis non modo non conſentiente, ſed pro<g ref="char:EOLhyphen"/>hibente ſupremo magiſtratu in ſui &amp; religionis defenſio<g ref="char:EOLhyphen"/>nem inire ligas, paciſci foedera, conjurataſque aſſocia<g ref="char:EOLhyphen"/>tiones conflare.<note place="margin">Solennis Liga &amp; Foedus. Nupera aſſociatio.</note>
+            </p>
+            <p n="7">7. Sui conſervatio eſt primaria &amp; fundamentalis naturae lex, omniumque aliarum legum cum iſta pugnantium obligationem tollit.<note place="margin">Hobbeſius de Cive. Leviath.</note>
+            </p>
+            <p n="8">8. Doctrina Evangelica de tolerandis injuriis non prohi<g ref="char:EOLhyphen"/>bet vi &amp; armis reſiſtere Magiſtratui Religionem violen<g ref="char:EOLhyphen"/>ter oppugnanti.<note place="margin">Lex Rex. Julian. Apoſt. Apologet. Relat.</note>
+            </p>
+            <pb n="4" facs="tcp:97295:4"/>
+            <!-- PDF PAGE 49 -->
+            <p n="9">9. Chriſtiani non tenentur ad obedientiam paſſivam, quo<g ref="char:EOLhyphen"/>ties Princeps contra leges &amp; jura Reip. aliquid impe<g ref="char:EOLhyphen"/>rat; atque primaevi Chriſtiani ea tantum de cauſa pa<g ref="char:EOLhyphen"/>ti quam reſiſtere maluere, quod religio Chriſtiana non<g ref="char:EOLhyphen"/>dum eſſet Imperatoriis legibus ſancita.<note place="margin">Julian. Apoſt.</note>
+            </p>
+            <p n="10">10. Poſſeſſio &amp; potentia conferunt jus Imperii:<note n="(a)" place="margin">Hobbeſius.</note> cujuſ<g ref="char:EOLhyphen"/>que cauſae bonitatem &amp; aequitatem indicat &amp; confirmat ſucceſſus, quem urgere eſt Divinae voluntati obſequi &amp; providentiae ductum ſequi.<note n="(b)" place="margin">Owen concio coram Regicidis, <hi>Jan. 31. 1648.</hi> Baxt. Jenkyns. Libel. ſupplex Octobr. <hi>1651.</hi>
+               </note>
+            </p>
+            <p n="11">11. Secundum naturam nullum eſt boni malique, nullum juſti &amp; iniqui diſcrimen; &amp; ſtatus naturae eſt ſtatus bel<g ref="char:EOLhyphen"/>li, in quo cuilibet jus competit ad omnia.</p>
+            <p n="12">12. In hoc jure naturali fundatur jus civile, ſingulis cum ſocietatem ineunt, jure ſuo magiſtratui cedentibus, qua ceſſione magiſtratui non tam datum quam relictum eſt jus ſuum naturale. Nec modo peregrinus hoſtis, ſed &amp; rebellis domeſticus in ſtatum naturae redit, &amp; pu<g ref="char:EOLhyphen"/>niendus eſt non jure civitatis, ſed jure belli; <hi>&amp; proinde perduellione ſua par jus in vitam Principis conſequitur, atque Princeps in vitam ſui ſubditi atrociſſimo ſcelere damnati.</hi>
+            </p>
+            <p n="13">13. Etiam ſocietate inita cuilibet manet jus ſemetipſum contra vim qualemcunque defendendi; nec poteſt in Remp. conſentiens, jus illud ullo modo in Rempubli<g ref="char:EOLhyphen"/>cam transferre. Quod ſi magna vis hominum ita du<g ref="char:EOLhyphen"/>dum obſtiterit magiſtratui, ut ex lege ſinguli mortem metuant, continuo licet illis junctis viribus ſe tueri; &amp; vis iſta quae primam officii violationem ſubſequitur, li<g ref="char:EOLhyphen"/>cet
+<pb n="5" facs="tcp:97295:4"/>
+               <!-- PDF PAGE 49 -->eam tueatur, non tamen peccat de novo, &amp; ſi ad vitae conſervationem dirigatur, non peccat omnino.</p>
+            <p n="14">14. Juramentum nihil ſuperaddit obligationi quae oritur ex pacto, pactumque eatenus obligat, quatenus fides habetur promittenti. <hi>Quocirca ſi Princeps quoviſino<g ref="char:EOLhyphen"/>do indicet ſe ſubditis fidelitatem promittentibus non credere, illi hoc ipſo ſubjectione liberantur, neque ob<g ref="char:EOLhyphen"/>ſlant pacta &amp; juramenta quo minus jure contra Princi<g ref="char:EOLhyphen"/>pem inſurgant, eumque regno &amp; vita exuant.</hi>
+               <note place="margin">Hobbeſius de Cive. Leviathan.</note>
+            </p>
+            <p n="15">15. Si populus officio &amp; juramento Principi obſtrictus, il<g ref="char:EOLhyphen"/>lum regno nefarie &amp; injuſta vi deturbet, &amp; contra fi<g ref="char:EOLhyphen"/>dem &amp; religionem ſacramenti ſui, cum alio foedus faci<g ref="char:EOLhyphen"/>at, poteſt hic populus, pactione prima inſuper habita poſteriore teneri.<note place="margin">Baxter. R. S.</note>
+            </p>
+            <p n="16">16. Juramentum omne illicitum eſt, &amp; Verbo Dei con<g ref="char:EOLhyphen"/>trarium.<note place="margin">Quaker.</note>
+            </p>
+            <p n="17">17. Obligatio juramenti non ex intentione deferentis, ſed ſuſcipientis aeſtimanda eſt.<note place="margin">Vice-comitum Londinenſium cauſa.</note>
+            </p>
+            <p n="18">18. Dominium fundatur in gratia.</p>
+            <p n="19">19. Poteſtates ſeculares Jeſu Chriſti praerogativam uſur<g ref="char:EOLhyphen"/>pant, &amp; oportet populum Dei illas omnes exterminare, ut Chriſto regnum deferant, eumque collocent in ſolio ſuo.<note place="margin">Quintae Monarchiae aſſertores univerſim.</note>
+            </p>
+            <pb n="6" facs="tcp:97295:5"/>
+            <!-- PDF PAGE 50 -->
+            <p n="20">20. Regimen Presbyterianum eſt ſceptrum regni Jeſu Chriſti, cui reges perinde ac ſubditiſement ſubmittere te<g ref="char:EOLhyphen"/>nentur; &amp; poteſtas Regia in cauſis Eccleſiaſticis quam aſſerit Eccleſia Anglicana, eſt Chriſto contumelioſa, qui ſolus eſt Rex &amp; Caput Eccleſiae ſuae.<note place="margin">Alare Damaſcenum. Apologet. Relat. Hiſt. Indulg. Cartwright. Travers.</note>
+            </p>
+            <p n="21">21. Non licet Principibus in cultu Divino praecipere quod non eſt antecedenter neceſſarium.</p>
+            <p n="22">22. Scandalum infirmorum tollit omnem auctoritatem humanam condendi leges de rebus adiaphoris.<note place="margin">Conciliator Proteſtantium.</note>
+            </p>
+            <p n="23">23. Tyranni &amp; impii Principes morte multandi ſunt; quod ſi Judices &amp; inferiores Magiſtratus officio ſuo de<g ref="char:EOLhyphen"/>ſint, jus gladii redit ad populum, quo ſi major pars u<g ref="char:EOLhyphen"/>ti nolit, Paſtores &amp; Miniſtri Eccleſiaſtici debent Prin<g ref="char:EOLhyphen"/>cipes Satanae tradere, &amp; poſt ſententiam Excommuni<g ref="char:EOLhyphen"/>cationis latam, quibuſlibet ſubditis licebit eos occidere, eodem jure quo ſubditi <hi>Athaliam,</hi> &amp; <hi>Jehu Jezabelem.</hi>
+               <note place="margin">Buchanan. Goodman. Knox. Gilby. Jeſuitae.</note>
+            </p>
+            <p n="24">24. Populo Dei etiam poſt conſignatum Scripturae cano<g ref="char:EOLhyphen"/>nem, in omni aevo novae Revelationes ſunt expectandae, ad quarum normam actiones ſuas dirigant vitamque componant,<note n="(a)" place="margin">Quak. &amp; alii Enthuſ.</note> &amp; privatus quilibet à Spiritu Sancto in<g ref="char:EOLhyphen"/>ſtigatus, jure poteſt occidere Tyrannum.<note n="(b)" place="margin">Goodman.</note>
+            </p>
+            <p n="25">25. Exemplum <hi>Phineazi</hi> nobis eſt pro praecepto; quod enim ſemel probavit Deus &amp; praecepit, illud perpetuo &amp; ubique obliget neceſſe eſt.<note place="margin">Goodman. Knox. Naphthali.</note>
+            </p>
+            <pb n="7" facs="tcp:97295:5"/>
+            <!-- PDF PAGE 50 -->
+            <p n="26">26. <hi>CAROL<g ref="char:V">Ʋ</g>S</hi> primus jure caeſus eſt, ejuſque percuſ<g ref="char:EOLhyphen"/>ſores in generatione ſua gloriae Dei inſigniter ſervie<g ref="char:EOLhyphen"/>bant.<note place="margin">Milton. Goodwin. Owen.</note>
+            </p>
+            <p n="27">27. <hi>CAROL<g ref="char:V">Ʋ</g>S</hi> primus Parliamento bellum ultro intulit, quo in caſu licuit illi reſiſtere, utpote jam pri<g ref="char:EOLhyphen"/>vato, &amp; qui Regia Majeſtate prorſus excidiſſet.<note place="margin">Baxter.</note>
+            </p>
+            <p>Has Propoſitiones omnes &amp; ſingulas eſſe fal<g ref="char:EOLhyphen"/>ſas, ſeditioſas, impias; pleraſque inſuper hae<g ref="char:EOLhyphen"/>reticas, blaſphemas, Religioni Chriſtianae in<g ref="char:EOLhyphen"/>fames, &amp; Politiae Civilis &amp; Eccleſiaſticae ſub<g ref="char:EOLhyphen"/>verſivas ſtatuimus, decernimus &amp; declara<g ref="char:EOLhyphen"/>mus.</p>
+            <p>Porro Decernimus libros in quibus praedictae propoſitiones &amp; impia Dogmata occurrunt, ap<g ref="char:EOLhyphen"/>tos natos eſſe bonos mores &amp; hominum im<g ref="char:EOLhyphen"/>peritorum mentes corrumpere, ſeditiones at<g ref="char:EOLhyphen"/>que tumultus concitare, ſtatum Regnorum ever<g ref="char:EOLhyphen"/>tere, atque ad rebellionem, parricidia &amp; Athe<g ref="char:EOLhyphen"/>iſmum manuducere. Et proinde Scriptorum iſtorum lectione Togatos omnes arcemus ſub poena juris.</p>
+            <p>Inſuper ſupra nominatos libros in area Scholarum noſtrarum manu infami flammis comburendos decernimus.</p>
+            <pb n="8" facs="tcp:97295:6"/>
+            <!-- PDF PAGE 51 -->
+            <p>Porro ordinamus ut ad perpetuam rei me<g ref="char:EOLhyphen"/>moriam haec noſtra Decreta non modo in Acta Venerabilis iſtius conſeſſus referantur, ſed eti<g ref="char:EOLhyphen"/>am eorum Apographa ſingulis Collegiis &amp; Au<g ref="char:EOLhyphen"/>lis intra hanc Univerſitatem communicata; in eorundem Bibliothecis, Refectoriis, aliiſve lo<g ref="char:EOLhyphen"/>cis maxime idoneis, ubi ab omnibus ſpectari &amp; legi poſſint, publice appendantur.</p>
+            <p>Demum praecipimus &amp; firmiter injungimus omnibus &amp; ſingulis Praelectoribus, Tutoribus, Catechiſtis, aliiſque omnibus quibus Academi<g ref="char:EOLhyphen"/>cae juventutis inſtitutio concreditur, ut curae &amp; fidei ſuae commiſſos ſedulo inſtruant &amp; ſta<g ref="char:EOLhyphen"/>biliant in neceſſario illo Chriſtianae pietatis ca<g ref="char:EOLhyphen"/>pite, quod Eccleſiae Anglicanae teſſera &amp; cha<g ref="char:EOLhyphen"/>racter audit; ut ſubjecti ſint omni humanae creaturae propter Deum, ſive Regi, quaſi prae<g ref="char:EOLhyphen"/>cellenti, ſive ducibus ab eo miſſis, ob vindictam malefactorum, laudem vero bonorum. Quod quidem obſequium, liquido, abſolute &amp; ſine effugiis praeſtandum eſſe doceant; moneant<g ref="char:EOLhyphen"/>que inſuper ex praecepto Apoſtoli, primum omnium fieri obſecrationes, orationes, poſtu<g ref="char:EOLhyphen"/>lationes, gratiarum actiones pro omnibus ho<g ref="char:EOLhyphen"/>minibus, pro Regibus, &amp; omnibus qui in ſub<g ref="char:EOLhyphen"/>limitate conſtituti ſunt, ut quietam &amp; tran<g ref="char:EOLhyphen"/>quillam vitam agamus in omni pietate &amp; caſti<g ref="char:EOLhyphen"/>tate: hoc enim bonum eſt &amp; acceptum co<g ref="char:EOLhyphen"/>ram ſervatore noſtro Deo; &amp; ſpeciatim, ar<g ref="char:EOLhyphen"/>dentiſſimis juxta &amp; aſſiduis precibus ad Gratiae
+<pb n="9" facs="tcp:97295:6"/>
+               <!-- PDF PAGE 51 -->thronum venerabundi provolvantur, pro ſa<g ref="char:EOLhyphen"/>lute ſereniſsimi Regis noſtri Caroli, utab omni graſſatorum inſultu &amp; perfidorum machina<g ref="char:EOLhyphen"/>tionibus tutus &amp; inviolabilis uſque permaneat; fideique defenſor a Deo ſuo pariter defenſus, ſera &amp; beata Immortalitate perfruatur.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
